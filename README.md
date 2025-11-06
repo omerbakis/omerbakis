@@ -77,14 +77,12 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/omerbakis">
+  <a href="https://www.linkedin.com/in/%C3%B6mer-bak%C4%B1%C5%9F-a18bbb291 ">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin" height="32"/>
   </a>
-  <a href="mailto:omerbakis@example.com">
+  <a href="mailto:omerbakis@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail" height="32"/>
   </a>
 </p>
 
 ---
-
-> ⭐ *“Engineering is the art of making what you need from what you have.”*
