@@ -11,7 +11,7 @@
 
 ## 🧑‍💼 About Me
 
-- 🏹 **Currently focused on:** Real-time target selection & prioritization for UAVs
+- 🏹 **Currently focused on:** Real-time target selection & prioritization
 - 🔬 **Passionate about:** Artificial Intelligence, Computer Vision, Embedded Systems, Robotics Simulation
 - 🧩 **Skilled in:** Model training, optimization, tracking & path planning
 - 🛠️ **Strength:** End-to-end engineering — from algorithm design to hardware deployment
@@ -26,7 +26,7 @@
 | 🛰️ **Telemetry-Based Target Selection System**                     | Real-time UAV platform that analyzes telemetry to select/prioritize aerial targets        | Flask, WebSocket, Kalman, Optical Flow, RRT*, Plotly, Gazebo, PX4, SSL           |
 | 🤖 **Custom Object Detection & Optimization Pipeline**              | Custom datasets, model training & deployment with YOLO, optimization tools               | YOLOv3→11, TensorRT, ONNX, PyTorch, Optuna, Ray Tune                             |
 | 🧩 **Advanced Tracking & Planning Algorithms**                      | Multi-object tracking & motion planning in Gazebo/PX4 simulations                        | Python, Kalman, Optical Flow, RRT/RRT*, OpenCV                                   |
-| ☕ **INSOMNIA Local Loyalty System**                                | Offline Raspberry Pi-based QR customer loyalty & admin dashboard                         | Flask, SQLite, QR, hostapd, HTML/CSS/JS                                          |
+| ☕ **Local Loyalty System**                                | Offline Raspberry Pi-based QR customer loyalty & admin dashboard                         | Flask, SQLite, QR, hostapd, HTML/CSS/JS                                          |
 
 ---
 
