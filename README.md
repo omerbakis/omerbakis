@@ -74,18 +74,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omerbakis&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omerbakis&layout=compact&theme=tokyonight" />
-  <br>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=omerbakis&theme=tokyonight" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omerbakis&theme=github_dark" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
